@@ -1,0 +1,1581 @@
+1662280985973	geckodriver	INFO	Listening on 127.0.0.1:54591
+1662280988030	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileP8vk29"
+1662280989740	Marionette	INFO	Marionette enabled
+1662280989759	Marionette	INFO	Listening on port 54604
+WebDriver BiDi listening on ws://localhost:54592
+Read port: 54604
+1662280990939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileP8vk29\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54592/devtools/browser/48247800-6d3c-4db0-830e-6fe9397a671b
+1662281056618	Marionette	INFO	Stopped listening on port 54604
+1662281058264	geckodriver	INFO	Listening on 127.0.0.1:54713
+1662281060312	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilezmkwfa"
+1662281061003	Marionette	INFO	Marionette enabled
+1662281061019	Marionette	INFO	Listening on port 54724
+WebDriver BiDi listening on ws://localhost:54714
+Read port: 54724
+1662281061826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilezmkwfa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54714/devtools/browser/36cd344f-a449-4937-9cbb-8ee5993386a1
+1662281153216	Marionette	INFO	Stopped listening on port 54724
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1662281155205	geckodriver	INFO	Listening on 127.0.0.1:54854
+1662281157215	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileuQGHuH"
+1662281157920	Marionette	INFO	Marionette enabled
+1662281157935	Marionette	INFO	Listening on port 54865
+WebDriver BiDi listening on ws://localhost:54855
+Read port: 54865
+1662281158727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileuQGHuH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54855/devtools/browser/1b582426-5d0a-4186-9837-b1d66e7f4cc1
+1662281174802	Marionette	INFO	Stopped listening on port 54865
+!!! error running onStopped callback: TypeError: callback is not a function
+1662281177159	geckodriver	INFO	Listening on 127.0.0.1:54918
+1662281179160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTieAbo"
+1662281180013	Marionette	INFO	Marionette enabled
+1662281180039	Marionette	INFO	Listening on port 54933
+WebDriver BiDi listening on ws://localhost:54919
+Read port: 54933
+1662281180852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTieAbo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54919/devtools/browser/19cbd8f9-3330-40c0-b2c2-96fca90275b1
+1662281232806	Marionette	INFO	Stopped listening on port 54933
+!!! error running onStopped callback: TypeError: callback is not a function
+1662281366067	geckodriver	INFO	Listening on 127.0.0.1:55148
+1662281368092	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileD5i5wv"
+1662281368755	Marionette	INFO	Marionette enabled
+1662281368773	Marionette	INFO	Listening on port 55159
+WebDriver BiDi listening on ws://localhost:55149
+Read port: 55159
+1662281369877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileD5i5wv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55149/devtools/browser/5e2b179f-f238-423f-9288-5e6abcc78d8e
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1662281406434	Marionette	INFO	Stopped listening on port 55159
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 7200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662281408292	geckodriver	INFO	Listening on 127.0.0.1:55218
+1662281410295	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileK7Lnp0"
+1662281411027	Marionette	INFO	Marionette enabled
+1662281411045	Marionette	INFO	Listening on port 55228
+WebDriver BiDi listening on ws://localhost:55219
+Read port: 55228
+1662281411743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileK7Lnp0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55219/devtools/browser/b8642819-4b1f-41bf-b665-4032c22ed1aa
+1662281572030	Marionette	INFO	Stopped listening on port 55228
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 8340, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1662282307837	geckodriver	INFO	Listening on 127.0.0.1:56168
+1662282309835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileRntFi0"
+1662282310721	Marionette	INFO	Marionette enabled
+1662282310743	Marionette	INFO	Listening on port 56180
+WebDriver BiDi listening on ws://localhost:56169
+Read port: 56180
+1662282311540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileRntFi0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56169/devtools/browser/5ed52eb7-2708-4783-bf3b-e3789bab84f7
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1662282330425	Marionette	INFO	Stopped listening on port 56180
+!!! error running onStopped callback: TypeError: callback is not a function
+1662282331964	geckodriver	INFO	Listening on 127.0.0.1:56237
+1662282333961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile3GcBw1"
+1662282334607	Marionette	INFO	Marionette enabled
+1662282334623	Marionette	INFO	Listening on port 56248
+WebDriver BiDi listening on ws://localhost:56238
+Read port: 56248
+1662282336034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile3GcBw1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56238/devtools/browser/2d716da5-51a2-4e34-a086-fb2d4fe4d879
+1662282384711	Marionette	INFO	Stopped listening on port 56248
+!!! error running onStopped callback: TypeError: callback is not a function
+1662282722632	geckodriver	INFO	Listening on 127.0.0.1:56675
+1662282724654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileC1FI6b"
+1662282725586	Marionette	INFO	Marionette enabled
+1662282725610	Marionette	INFO	Listening on port 56689
+WebDriver BiDi listening on ws://localhost:56676
+Read port: 56689
+1662282726267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileC1FI6b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56676/devtools/browser/a4215d73-924e-42f1-a1ef-360e7ddc098f
+1662282741727	Marionette	INFO	Stopped listening on port 56689
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1662282744291	geckodriver	INFO	Listening on 127.0.0.1:56743
+1662282746337	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilev5aEnN"
+1662282747079	Marionette	INFO	Marionette enabled
+1662282747095	Marionette	INFO	Listening on port 56756
+WebDriver BiDi listening on ws://localhost:56744
+Read port: 56756
+1662282747973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilev5aEnN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56744/devtools/browser/5a812fc2-ac94-45ac-a331-a7e638124c5d
+1662282763439	Marionette	INFO	Stopped listening on port 56756
+!!! error running onStopped callback: TypeError: callback is not a function
+1662282989208	geckodriver	INFO	Listening on 127.0.0.1:57032
+1662282991219	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile0Vstbh"
+1662282991903	Marionette	INFO	Marionette enabled
+1662282991919	Marionette	INFO	Listening on port 57043
+WebDriver BiDi listening on ws://localhost:57033
+Read port: 57043
+1662282992617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile0Vstbh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57033/devtools/browser/c330b57f-e510-4f89-95f6-2359f856619f
+1662282998576	Marionette	INFO	Stopped listening on port 57043
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 201: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662283003167	geckodriver	INFO	Listening on 127.0.0.1:57055
+1662283005172	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileuE4H40"
+1662283005909	Marionette	INFO	Marionette enabled
+1662283005921	Marionette	INFO	Listening on port 57064
+WebDriver BiDi listening on ws://localhost:57056
+Read port: 57064
+1662283006679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileuE4H40\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57056/devtools/browser/c210d5fa-5265-47ca-8aa5-618abe34319c
+1662283012944	Marionette	INFO	Stopped listening on port 57064
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 10948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662283226860	geckodriver	INFO	Listening on 127.0.0.1:57312
+1662283228874	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTo9rSR"
+1662283229609	Marionette	INFO	Marionette enabled
+1662283229620	Marionette	INFO	Listening on port 57322
+WebDriver BiDi listening on ws://localhost:57313
+Read port: 57322
+1662283230269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTo9rSR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57313/devtools/browser/3e935ff7-9fbb-4e8c-ac26-3af91a757c39
+1662283363454	Marionette	INFO	Stopped listening on port 57322
+1662283364804	geckodriver	INFO	Listening on 127.0.0.1:57492
+1662283366832	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileD4MrnE"
+1662283367524	Marionette	INFO	Marionette enabled
+1662283367539	Marionette	INFO	Listening on port 57502
+WebDriver BiDi listening on ws://localhost:57493
+Read port: 57502
+1662283368291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileD4MrnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57493/devtools/browser/95163a94-872e-4892-9324-ce41ed40f39b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662283395119	Marionette	INFO	Stopped listening on port 57502
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 11260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662287363796	geckodriver	INFO	Listening on 127.0.0.1:61407
+1662287365806	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileCZDNyq"
+1662287366608	Marionette	INFO	Marionette enabled
+1662287366620	Marionette	INFO	Listening on port 61417
+WebDriver BiDi listening on ws://localhost:61408
+Read port: 61417
+1662287367448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileCZDNyq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61408/devtools/browser/959b7c34-9ea3-4162-8404-92601fa6fcd2
+1662287441975	Marionette	INFO	Stopped listening on port 61417
+!!! error running onStopped callback: TypeError: callback is not a function
+1662289267511	geckodriver	INFO	Listening on 127.0.0.1:62424
+1662289269536	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilek2RtP0"
+1662289270278	Marionette	INFO	Marionette enabled
+1662289270302	Marionette	INFO	Listening on port 62436
+WebDriver BiDi listening on ws://localhost:62425
+Read port: 62436
+1662289271039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilek2RtP0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62425/devtools/browser/62d9a09a-c887-4948-a530-e3138b2b78da
+1662289391251	Marionette	INFO	Stopped listening on port 62436
+!!! error running onStopped callback: TypeError: callback is not a function
+1662291077206	geckodriver	INFO	Listening on 127.0.0.1:62837
+1662291079231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile6nEWC1"
+1662291079925	Marionette	INFO	Marionette enabled
+1662291079944	Marionette	INFO	Listening on port 62852
+WebDriver BiDi listening on ws://localhost:62838
+Read port: 62852
+1662291080723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile6nEWC1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62838/devtools/browser/eff6e1c2-ff98-49fc-97d3-d3dba088de37
+1662291179333	Marionette	INFO	Stopped listening on port 62852
+[Parent 10736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662296070092	geckodriver	INFO	Listening on 127.0.0.1:63915
+1662296072086	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile4895Lp"
+1662296072795	Marionette	INFO	Marionette enabled
+1662296072806	Marionette	INFO	Listening on port 63923
+WebDriver BiDi listening on ws://localhost:63916
+Read port: 63923
+1662296073535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile4895Lp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63916/devtools/browser/6a55e7a5-53a3-410c-b2a7-e03cd6ca204d
+1662296168373	Marionette	INFO	Stopped listening on port 63923
+!!! error running onStopped callback: TypeError: callback is not a function
+1662300041472	geckodriver	INFO	Listening on 127.0.0.1:64885
+1662300043505	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileEt8NU7"
+1662300044175	Marionette	INFO	Marionette enabled
+1662300044192	Marionette	INFO	Listening on port 64893
+WebDriver BiDi listening on ws://localhost:64886
+Read port: 64893
+1662300044765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileEt8NU7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64886/devtools/browser/e889a0d9-44b8-41e4-bbeb-1ce873c0bec2
+1662300073697	Marionette	INFO	Stopped listening on port 64893
+!!! error running onStopped callback: TypeError: callback is not a function
+1662300159946	geckodriver	INFO	Listening on 127.0.0.1:64947
+1662300161963	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileosBSvb"
+1662300162591	Marionette	INFO	Marionette enabled
+1662300162604	Marionette	INFO	Listening on port 64955
+WebDriver BiDi listening on ws://localhost:64948
+Read port: 64955
+1662300163281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileosBSvb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64948/devtools/browser/5eecd168-5993-4880-9c7c-ba66b9b6cf46
+1662300223982	Marionette	INFO	Stopped listening on port 64955
+!!! error running onStopped callback: TypeError: callback is not a function
+1662300429950	geckodriver	INFO	Listening on 127.0.0.1:65036
+1662300431977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileOW30yp"
+1662300433078	Marionette	INFO	Marionette enabled
+1662300433112	Marionette	INFO	Listening on port 65046
+WebDriver BiDi listening on ws://localhost:65037
+Read port: 65046
+1662300433862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileOW30yp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65037/devtools/browser/0f9c8ce7-39f3-499c-954a-e617bd0aedc6
+1662300549779	Marionette	INFO	Stopped listening on port 65046
+!!! error running onStopped callback: TypeError: callback is not a function
+1662300565930	geckodriver	INFO	Listening on 127.0.0.1:65114
+1662300567968	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilemWE5Ua"
+1662300568612	Marionette	INFO	Marionette enabled
+1662300568625	Marionette	INFO	Listening on port 65122
+WebDriver BiDi listening on ws://localhost:65115
+Read port: 65122
+1662300569243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilemWE5Ua\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65115/devtools/browser/e1894b83-8693-4ca5-a641-fccd47118f08
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662300760845	Marionette	INFO	Stopped listening on port 65122
+!!! error running onStopped callback: TypeError: callback is not a function
+1662300988505	geckodriver	INFO	Listening on 127.0.0.1:65248
+1662300990522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZreZth"
+1662300991320	Marionette	INFO	Marionette enabled
+1662300991332	Marionette	INFO	Listening on port 65256
+WebDriver BiDi listening on ws://localhost:65249
+Read port: 65256
+1662300991950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZreZth\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65249/devtools/browser/dcd15764-7ae2-4bd6-b647-97273d6cf675
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662301685661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662301707099	Marionette	INFO	Stopped listening on port 65256
+[Parent 1872, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 1872, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662301710099	geckodriver	INFO	Listening on 127.0.0.1:65443
+1662301712109	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65444" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaq5zGD"
+1662301712759	Marionette	INFO	Marionette enabled
+1662301712777	Marionette	INFO	Listening on port 65453
+WebDriver BiDi listening on ws://localhost:65444
+Read port: 65453
+1662301713506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaq5zGD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65444/devtools/browser/dfc32357-585d-4f7f-9dc4-e64085990a37
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662302176306	Marionette	INFO	Stopped listening on port 65453
+1662302178349	geckodriver	INFO	Listening on 127.0.0.1:49177
+1662302180532	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelxy4X6"
+1662302181285	Marionette	INFO	Marionette enabled
+1662302181308	Marionette	INFO	Listening on port 49189
+WebDriver BiDi listening on ws://localhost:49178
+Read port: 49189
+1662302182135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelxy4X6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49178/devtools/browser/e8c5685c-74e3-4f8e-8073-5e1dabefa544
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662302390630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662302411231	Marionette	INFO	Stopped listening on port 49189
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 3692, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1662302412853	geckodriver	INFO	Listening on 127.0.0.1:49293
+1662302414861	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilePmgKAK"
+1662302415493	Marionette	INFO	Marionette enabled
+1662302415504	Marionette	INFO	Listening on port 49302
+WebDriver BiDi listening on ws://localhost:49294
+Read port: 49302
+1662302416648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1662302502324	geckodriver	INFO	Listening on 127.0.0.1:49327
+1662302504326	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileoMvrqs"
+1662302504948	Marionette	INFO	Marionette enabled
+1662302504964	Marionette	INFO	Listening on port 49335
+WebDriver BiDi listening on ws://localhost:49328
+Read port: 49335
+1662302505569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileoMvrqs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49328/devtools/browser/de66efe9-48e8-4c99-b896-93ea4e35a420
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662302619617	Marionette	INFO	Stopped listening on port 49335
+!!! error running onStopped callback: TypeError: callback is not a function
+1662302621063	geckodriver	INFO	Listening on 127.0.0.1:49387
+1662302623075	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile43rxw0"
+1662302623811	Marionette	INFO	Marionette enabled
+1662302623821	Marionette	INFO	Listening on port 49397
+WebDriver BiDi listening on ws://localhost:49388
+Read port: 49397
+1662302624512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile43rxw0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49388/devtools/browser/320a4bd5-8638-40cd-99da-0edf1ff2180f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662302951585	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662302986413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662302996625	Marionette	INFO	Stopped listening on port 49397
+1662302998159	geckodriver	INFO	Listening on 127.0.0.1:49484
+1662303000169	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaxB5YR"
+1662303000851	Marionette	INFO	Marionette enabled
+1662303000863	Marionette	INFO	Listening on port 49492
+WebDriver BiDi listening on ws://localhost:49485
+Read port: 49492
+1662303001621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaxB5YR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49485/devtools/browser/8f9d3857-8cc6-4aa4-9ff8-7c8652bc484f
+1662303056611	Marionette	INFO	Stopped listening on port 49492
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1662303058236	geckodriver	INFO	Listening on 127.0.0.1:49539
+1662303060244	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelrisdz"
+1662303061216	Marionette	INFO	Marionette enabled
+1662303061237	Marionette	INFO	Listening on port 49549
+WebDriver BiDi listening on ws://localhost:49540
+Read port: 49549
+1662303061948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelrisdz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49540/devtools/browser/14ab57ad-b2fe-4fd0-b0e6-ce0f1f1c8a68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662303154649	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662303175251	Marionette	INFO	Stopped listening on port 49549
+!!! error running onStopped callback: TypeError: callback is not a function
+1662303176481	geckodriver	INFO	Listening on 127.0.0.1:49605
+1662303178479	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilesxKYDZ"
+1662303179134	Marionette	INFO	Marionette enabled
+1662303179149	Marionette	INFO	Listening on port 49613
+WebDriver BiDi listening on ws://localhost:49606
+Read port: 49613
+1662303179789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilesxKYDZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49606/devtools/browser/566bc612-9bc9-46d8-9d0d-47f7e7a9adf2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662303457133	Marionette	INFO	Stopped listening on port 49613
+1662303458726	geckodriver	INFO	Listening on 127.0.0.1:49706
+1662303460729	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilejiOTTm"
+1662303461381	Marionette	INFO	Marionette enabled
+1662303461392	Marionette	INFO	Listening on port 49715
+WebDriver BiDi listening on ws://localhost:49707
+Read port: 49715
+1662303461929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilejiOTTm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49707/devtools/browser/e406aaf0-89dc-496d-b46c-65d9e95a7016
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662303568637	Marionette	INFO	Stopped listening on port 49715
+!!! error running onStopped callback: TypeError: callback is not a function
+1662303569923	geckodriver	INFO	Listening on 127.0.0.1:49767
+1662303571915	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileqEQ8fV"
+1662303572527	Marionette	INFO	Marionette enabled
+1662303572541	Marionette	INFO	Listening on port 49775
+WebDriver BiDi listening on ws://localhost:49768
+Read port: 49775
+1662303573229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileqEQ8fV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49768/devtools/browser/625ca3b5-46c9-4557-a128-564a57b0fe92
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662303696902	Marionette	INFO	Stopped listening on port 49775
+!!! error running onStopped callback: TypeError: callback is not a function
+1662342446205	geckodriver	INFO	Listening on 127.0.0.1:51208
+1662342448172	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaLym3s"
+1662342449405	Marionette	INFO	Marionette enabled
+1662342449424	Marionette	INFO	Listening on port 51218
+WebDriver BiDi listening on ws://localhost:51209
+Read port: 51218
+1662342450549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaLym3s\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+DevTools listening on ws://localhost:51209/devtools/browser/adaa92d1-8db4-4f11-b5ff-9ebbe2de6cb0
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662342516458	Marionette	INFO	Stopped listening on port 51218
+!!! error running onStopped callback: TypeError: callback is not a function
+1662342518253	geckodriver	INFO	Listening on 127.0.0.1:51263
+1662342520252	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile5DTNNx"
+1662342521077	Marionette	INFO	Marionette enabled
+1662342521087	Marionette	INFO	Listening on port 51271
+WebDriver BiDi listening on ws://localhost:51264
+Read port: 51271
+1662342521994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile5DTNNx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51264/devtools/browser/867145a4-a22d-4a86-89df-d379f21af022
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662342703241	Marionette	INFO	Stopped listening on port 51271
+1662343111156	geckodriver	INFO	Listening on 127.0.0.1:51422
+1662343113160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileH2pVZ8"
+1662343113832	Marionette	INFO	Marionette enabled
+1662343113851	Marionette	INFO	Listening on port 51433
+WebDriver BiDi listening on ws://localhost:51423
+Read port: 51433
+1662343114472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileH2pVZ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51423/devtools/browser/e43201d8-0424-4bcc-b392-ad6b318ecc22
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662343220118	Marionette	INFO	Stopped listening on port 51433
+1662343221372	geckodriver	INFO	Listening on 127.0.0.1:51494
+1662343223377	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilefjxXgZ"
+1662343223940	Marionette	INFO	Marionette enabled
+1662343223948	Marionette	INFO	Listening on port 51503
+WebDriver BiDi listening on ws://localhost:51495
+Read port: 51503
+1662343224605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilefjxXgZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51495/devtools/browser/c6af3b19-6660-4566-83fe-faeecfdac57c
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662343343377	Marionette	INFO	Stopped listening on port 51503
+!!! error running onStopped callback: TypeError: callback is not a function
+1662344484033	geckodriver	INFO	Listening on 127.0.0.1:51867
+1662344486034	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile60jD1v"
+1662344486647	Marionette	INFO	Marionette enabled
+1662344486664	Marionette	INFO	Listening on port 51876
+WebDriver BiDi listening on ws://localhost:51868
+Read port: 51876
+1662344487347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile60jD1v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51868/devtools/browser/b6953c9a-388b-4928-8d34-9c05c9c1056f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662344570706	Marionette	INFO	Stopped listening on port 51876
+!!! error running onStopped callback: TypeError: callback is not a function
+1662344748686	geckodriver	INFO	Listening on 127.0.0.1:51965
+1662344750691	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile8AfaxR"
+1662344751412	Marionette	INFO	Marionette enabled
+1662344751424	Marionette	INFO	Listening on port 51974
+WebDriver BiDi listening on ws://localhost:51966
+Read port: 51974
+1662344752006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile8AfaxR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51966/devtools/browser/c0c6e457-428c-4e44-bffa-dd82c116b1c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662344815691	Marionette	INFO	Stopped listening on port 51974
+!!! error running onStopped callback: TypeError: callback is not a function
+1662345203303	geckodriver	INFO	Listening on 127.0.0.1:52101
+1662345205307	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileHk2fDG"
+1662345205959	Marionette	INFO	Marionette enabled
+1662345205970	Marionette	INFO	Listening on port 52111
+WebDriver BiDi listening on ws://localhost:52102
+Read port: 52111
+1662345206808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileHk2fDG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52102/devtools/browser/643c8604-9a09-459b-a5ad-98934d050a51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662345270998	Marionette	INFO	Stopped listening on port 52111
+!!! error running onStopped callback: TypeError: callback is not a function
+1662345982570	geckodriver	INFO	Listening on 127.0.0.1:52323
+1662345984578	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileYzpLB7"
+1662345985233	Marionette	INFO	Marionette enabled
+1662345985253	Marionette	INFO	Listening on port 52335
+WebDriver BiDi listening on ws://localhost:52324
+Read port: 52335
+1662345985961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileYzpLB7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52324/devtools/browser/f4d4424c-a775-4563-9fc4-141b0a293198
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346058673	Marionette	INFO	Stopped listening on port 52335
+!!! error running onStopped callback: TypeError: callback is not a function
+1662346201916	geckodriver	INFO	Listening on 127.0.0.1:52416
+1662346203927	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileYqkoYh"
+1662346204734	Marionette	INFO	Marionette enabled
+1662346204756	Marionette	INFO	Listening on port 52427
+WebDriver BiDi listening on ws://localhost:52417
+Read port: 52427
+1662346205447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileYqkoYh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52417/devtools/browser/976afef6-0fd9-424e-bf4f-a8cddf3311c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346249524	Marionette	INFO	Stopped listening on port 52427
+!!! error running onStopped callback: TypeError: callback is not a function
+1662346251597	geckodriver	INFO	Listening on 127.0.0.1:52472
+1662346253603	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilesROod3"
+1662346254294	Marionette	INFO	Marionette enabled
+1662346254308	Marionette	INFO	Listening on port 52480
+Read port: 52480
+WebDriver BiDi listening on ws://localhost:52473
+1662346254964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilesROod3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52473/devtools/browser/cba9721b-0123-403c-84c2-b373d39f126d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346306077	Marionette	INFO	Stopped listening on port 52480
+!!! error running onStopped callback: TypeError: callback is not a function
+1662346308242	geckodriver	INFO	Listening on 127.0.0.1:52531
+1662346310297	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilewdZBx3"
+1662346310890	Marionette	INFO	Marionette enabled
+1662346310900	Marionette	INFO	Listening on port 52539
+WebDriver BiDi listening on ws://localhost:52532
+Read port: 52539
+1662346311521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilewdZBx3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52532/devtools/browser/cf3c8f8c-dfa2-45ad-b8cf-468a7ca35373
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346364573	Marionette	INFO	Stopped listening on port 52539
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 5728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1662346365944	geckodriver	INFO	Listening on 127.0.0.1:52573
+1662346367950	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52574" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileSCXth5"
+1662346368634	Marionette	INFO	Marionette enabled
+1662346368644	Marionette	INFO	Listening on port 52581
+WebDriver BiDi listening on ws://localhost:52574
+Read port: 52581
+1662346369398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileSCXth5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52574/devtools/browser/a313d276-93a0-4f4d-90fb-b758759c9584
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346468060	Marionette	INFO	Stopped listening on port 52581
+!!! error running onStopped callback: TypeError: callback is not a function
+1662346470153	geckodriver	INFO	Listening on 127.0.0.1:52630
+1662346472162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilefv5L4z"
+1662346472818	Marionette	INFO	Marionette enabled
+1662346472829	Marionette	INFO	Listening on port 52638
+WebDriver BiDi listening on ws://localhost:52631
+Read port: 52638
+1662346473537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilefv5L4z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52631/devtools/browser/2560cfb8-b49a-4c20-b72a-9ed367de1819
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346535576	Marionette	INFO	Stopped listening on port 52638
+!!! error running onStopped callback: TypeError: callback is not a function
+1662346536805	geckodriver	INFO	Listening on 127.0.0.1:52678
+1662346538805	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileo1TAfO"
+1662346539449	Marionette	INFO	Marionette enabled
+1662346539461	Marionette	INFO	Listening on port 52686
+WebDriver BiDi listening on ws://localhost:52679
+Read port: 52686
+1662346540345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileo1TAfO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52679/devtools/browser/f9fe25c0-f2a5-4fe2-91cc-55df2ca908dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346692891	Marionette	INFO	Stopped listening on port 52686
+!!! error running onStopped callback: TypeError: callback is not a function
+1662346694664	geckodriver	INFO	Listening on 127.0.0.1:52749
+1662346696694	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofiled1bocV"
+1662346697358	Marionette	INFO	Marionette enabled
+1662346697369	Marionette	INFO	Listening on port 52760
+WebDriver BiDi listening on ws://localhost:52750
+Read port: 52760
+1662346698102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofiled1bocV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52750/devtools/browser/f61ec4ab-00c1-4a89-a503-d85c527596d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662346751448	Marionette	INFO	Stopped listening on port 52760
+!!! error running onStopped callback: TypeError: callback is not a function
+1662347142179	geckodriver	INFO	Listening on 127.0.0.1:52890
+1662347144181	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilej1mivU"
+1662347144865	Marionette	INFO	Marionette enabled
+1662347144878	Marionette	INFO	Listening on port 52899
+WebDriver BiDi listening on ws://localhost:52891
+Read port: 52899
+1662347145504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilej1mivU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52891/devtools/browser/4398a429-f9d6-4e7a-a7e0-ea885d692993
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662347199419	Marionette	INFO	Stopped listening on port 52899
+!!! error running onStopped callback: TypeError: callback is not a function
+1662347570822	geckodriver	INFO	Listening on 127.0.0.1:53023
+1662347572829	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileXPIQAr"
+1662347573492	Marionette	INFO	Marionette enabled
+1662347573504	Marionette	INFO	Listening on port 53033
+WebDriver BiDi listening on ws://localhost:53024
+Read port: 53033
+1662347574156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileXPIQAr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53024/devtools/browser/83772431-65d8-4e67-be74-4b2a6fcabc1a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662347643122	Marionette	INFO	Stopped listening on port 53033
+!!! error running onStopped callback: TypeError: callback is not a function
+1662347988198	geckodriver	INFO	Listening on 127.0.0.1:53153
+1662347990205	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTU7kf1"
+1662347990903	Marionette	INFO	Marionette enabled
+1662347990915	Marionette	INFO	Listening on port 53163
+WebDriver BiDi listening on ws://localhost:53154
+Read port: 53163
+1662347991706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTU7kf1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53154/devtools/browser/6a3a496c-bd92-4c04-844b-3b9f888e20e7
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662348069013	Marionette	INFO	Stopped listening on port 53163
+!!! error running onStopped callback: TypeError: callback is not a function
+1662348113362	geckodriver	INFO	Listening on 127.0.0.1:53230
+1662348115367	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilergbD4d"
+1662348116009	Marionette	INFO	Marionette enabled
+1662348116028	Marionette	INFO	Listening on port 53241
+WebDriver BiDi listening on ws://localhost:53231
+Read port: 53241
+1662348116879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilergbD4d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53231/devtools/browser/c6365e2f-a643-4116-9d57-057aff53b733
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662348158891	Marionette	INFO	Stopped listening on port 53241
+!!! error running onStopped callback: TypeError: callback is not a function
+1662348261699	geckodriver	INFO	Listening on 127.0.0.1:53310
+1662348263706	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilegkFn5N"
+1662348264383	Marionette	INFO	Marionette enabled
+1662348264394	Marionette	INFO	Listening on port 53323
+WebDriver BiDi listening on ws://localhost:53311
+Read port: 53323
+1662348265177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilegkFn5N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53311/devtools/browser/027a779d-fb53-4fc9-ad08-c9c0f5262009
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662348328156	Marionette	INFO	Stopped listening on port 53323
+!!! error running onStopped callback: TypeError: callback is not a function
+1662348518486	geckodriver	INFO	Listening on 127.0.0.1:53403
+1662348520500	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilex9zhyW"
+1662348521126	Marionette	INFO	Marionette enabled
+1662348521140	Marionette	INFO	Listening on port 53414
+WebDriver BiDi listening on ws://localhost:53404
+Read port: 53414
+1662348521724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilex9zhyW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53404/devtools/browser/dae56b3b-528f-48fc-9472-584bbdecec79
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662348572988	Marionette	INFO	Stopped listening on port 53414
+!!! error running onStopped callback: TypeError: callback is not a function
+1662348602794	geckodriver	INFO	Listening on 127.0.0.1:53460
+1662348604799	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileWaXT56"
+1662348605507	Marionette	INFO	Marionette enabled
+1662348605518	Marionette	INFO	Listening on port 53469
+WebDriver BiDi listening on ws://localhost:53461
+Read port: 53469
+1662348606167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileWaXT56\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53461/devtools/browser/286e002b-443a-4d4d-952f-0f43def536f8
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662348658241	Marionette	INFO	Stopped listening on port 53469
+1662348773491	geckodriver	INFO	Listening on 127.0.0.1:53542
+1662348775497	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelTqTUB"
+1662348776155	Marionette	INFO	Marionette enabled
+1662348776167	Marionette	INFO	Listening on port 53552
+WebDriver BiDi listening on ws://localhost:53543
+Read port: 53552
+1662348776794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelTqTUB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53543/devtools/browser/04e4a8f5-4f21-4601-9403-edce292fd29e
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662348828590	Marionette	INFO	Stopped listening on port 53552
+!!! error running onStopped callback: TypeError: callback is not a function
+1662349057176	geckodriver	INFO	Listening on 127.0.0.1:53646
+1662349059185	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileUysxOE"
+1662349059844	Marionette	INFO	Marionette enabled
+1662349059857	Marionette	INFO	Listening on port 53657
+WebDriver BiDi listening on ws://localhost:53647
+Read port: 53657
+1662349060607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileUysxOE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53647/devtools/browser/f6a2279b-9ca4-48ef-8952-a70e0d8d3680
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662349112500	Marionette	INFO	Stopped listening on port 53657
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 9696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1662349439103	geckodriver	INFO	Listening on 127.0.0.1:53767
+1662349441111	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilee9BCRU"
+1662349441895	Marionette	INFO	Marionette enabled
+1662349441915	Marionette	INFO	Listening on port 53779
+WebDriver BiDi listening on ws://localhost:53768
+Read port: 53779
+1662349442663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilee9BCRU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53768/devtools/browser/5e1ec716-664d-4543-8bfb-d836eae0f81b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662349498075	Marionette	INFO	Stopped listening on port 53779
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1662349938944	geckodriver	INFO	Listening on 127.0.0.1:53951
+1662349940949	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTncaJi"
+1662349941613	Marionette	INFO	Marionette enabled
+1662349941625	Marionette	INFO	Listening on port 53963
+WebDriver BiDi listening on ws://localhost:53952
+Read port: 53963
+1662349942332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTncaJi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53952/devtools/browser/23aa513f-cdb1-4472-b172-6f7ee4a9f94b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662350022609	Marionette	INFO	Stopped listening on port 53963
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662350148553	geckodriver	INFO	Listening on 127.0.0.1:54051
+1662350150557	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZ24vHj"
+1662350151234	Marionette	INFO	Marionette enabled
+1662350151248	Marionette	INFO	Listening on port 54062
+WebDriver BiDi listening on ws://localhost:54052
+Read port: 54062
+1662350151828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZ24vHj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54052/devtools/browser/064d5dcc-e90e-405e-9be4-ab9144b99ed6
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662350231613	Marionette	INFO	Stopped listening on port 54062
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 2624, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1662350272609	geckodriver	INFO	Listening on 127.0.0.1:54115
+1662350274621	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile6pCoXP"
+1662350275358	Marionette	INFO	Marionette enabled
+1662350275368	Marionette	INFO	Listening on port 54126
+WebDriver BiDi listening on ws://localhost:54116
+Read port: 54126
+1662350276012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile6pCoXP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54116/devtools/browser/bfe63b4e-209a-44ae-9486-a05ec2775f17
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662350318051	Marionette	INFO	Stopped listening on port 54126
+!!! error running onStopped callback: TypeError: callback is not a function
+1662350858265	geckodriver	INFO	Listening on 127.0.0.1:54309
+1662350860270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileyHLcmO"
+1662350860943	Marionette	INFO	Marionette enabled
+1662350860953	Marionette	INFO	Listening on port 54320
+WebDriver BiDi listening on ws://localhost:54310
+Read port: 54320
+1662350861728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileyHLcmO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54310/devtools/browser/bf2c5da0-9041-43b6-9a83-d6c4981c250d
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662350914323	Marionette	INFO	Stopped listening on port 54320
+!!! error running onStopped callback: TypeError: callback is not a function
+1662351284964	geckodriver	INFO	Listening on 127.0.0.1:54481
+1662351286967	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileoxdB64"
+1662351287635	Marionette	INFO	Marionette enabled
+1662351287652	Marionette	INFO	Listening on port 54490
+WebDriver BiDi listening on ws://localhost:54482
+Read port: 54490
+1662351288391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileoxdB64\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54482/devtools/browser/b3cef0df-813b-49d0-8a2d-ec4ddcbe5324
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662351360981	Marionette	INFO	Stopped listening on port 54490
+!!! error running onStopped callback: TypeError: callback is not a function
+1662351400414	geckodriver	INFO	Listening on 127.0.0.1:54559
+1662351402423	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaUbpdn"
+1662351403061	Marionette	INFO	Marionette enabled
+1662351403079	Marionette	INFO	Listening on port 54569
+WebDriver BiDi listening on ws://localhost:54560
+Read port: 54569
+1662351403716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaUbpdn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54560/devtools/browser/aa814f39-10d9-4ab3-b521-9b41b56fc63c
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662351455422	Marionette	INFO	Stopped listening on port 54569
+!!! error running onStopped callback: TypeError: callback is not a function
+1662352073182	geckodriver	INFO	Listening on 127.0.0.1:54793
+1662352075192	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileBuSbro"
+1662352075832	Marionette	INFO	Marionette enabled
+1662352075850	Marionette	INFO	Listening on port 54803
+WebDriver BiDi listening on ws://localhost:54794
+Read port: 54803
+1662352076622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileBuSbro\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54794/devtools/browser/4692ad20-d682-46bc-b043-276838eabd61
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662352143422	Marionette	INFO	Stopped listening on port 54803
+!!! error running onStopped callback: TypeError: callback is not a function
+1662352689627	geckodriver	INFO	Listening on 127.0.0.1:54979
+1662352691621	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileSS3DIX"
+1662352692419	Marionette	INFO	Marionette enabled
+1662352692436	Marionette	INFO	Listening on port 54990
+WebDriver BiDi listening on ws://localhost:54980
+Read port: 54990
+1662352693318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileSS3DIX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54980/devtools/browser/64c104b0-1453-4f5e-92f3-4051e0f53eac
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662352742422	Marionette	INFO	Stopped listening on port 54990
+!!! error running onStopped callback: TypeError: callback is not a function
+1662352757497	geckodriver	INFO	Listening on 127.0.0.1:55029
+1662352759515	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilepQ2IUu"
+1662352760212	Marionette	INFO	Marionette enabled
+1662352760231	Marionette	INFO	Listening on port 55041
+WebDriver BiDi listening on ws://localhost:55030
+Read port: 55041
+1662352761138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilepQ2IUu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55030/devtools/browser/cd22e25e-74f7-463d-aabf-5ef7eae79d8d
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662352807423	Marionette	INFO	Stopped listening on port 55041
+!!! error running onStopped callback: TypeError: callback is not a function
+1662352887133	geckodriver	INFO	Listening on 127.0.0.1:55099
+1662352889139	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileXO9NS2"
+1662352889790	Marionette	INFO	Marionette enabled
+1662352889823	Marionette	INFO	Listening on port 55108
+WebDriver BiDi listening on ws://localhost:55100
+Read port: 55108
+1662352890496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileXO9NS2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55100/devtools/browser/ea0b075d-c235-4012-a142-2537f72c6da0
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662352962797	Marionette	INFO	Stopped listening on port 55108
+!!! error running onStopped callback: TypeError: callback is not a function
+1662353890006	geckodriver	INFO	Listening on 127.0.0.1:55404
+1662353892018	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile5nDU0U"
+1662353892703	Marionette	INFO	Marionette enabled
+1662353892722	Marionette	INFO	Listening on port 55418
+WebDriver BiDi listening on ws://localhost:55405
+Read port: 55418
+1662353893350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile5nDU0U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55405/devtools/browser/a62271b2-f33e-4148-b518-340585664203
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662353963144	Marionette	INFO	Stopped listening on port 55418
+!!! error running onStopped callback: TypeError: callback is not a function
+1662354244600	geckodriver	INFO	Listening on 127.0.0.1:55526
+1662354246636	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilefSSexb"
+1662354247453	Marionette	INFO	Marionette enabled
+1662354247483	Marionette	INFO	Listening on port 55538
+WebDriver BiDi listening on ws://localhost:55527
+Read port: 55538
+1662354248141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilefSSexb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55527/devtools/browser/3b1d45bf-9873-4681-9cc9-44b7f0623406
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662354325563	Marionette	INFO	Stopped listening on port 55538
+!!! error running onStopped callback: TypeError: callback is not a function
+1662363171978	geckodriver	INFO	Listening on 127.0.0.1:57508
+1662363174018	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilezQzwHw"
+1662363174616	Marionette	INFO	Marionette enabled
+1662363174623	Marionette	INFO	Listening on port 57516
+WebDriver BiDi listening on ws://localhost:57509
+Read port: 57516
+1662363175212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilezQzwHw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57509/devtools/browser/84e9df29-e7cd-4dbe-9864-cc548bbb4643
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662363224368	Marionette	INFO	Stopped listening on port 57516
+!!! error running onStopped callback: TypeError: callback is not a function
+1662363750931	geckodriver	INFO	Listening on 127.0.0.1:57666
+1662363752962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile3CSqW8"
+1662363753581	Marionette	INFO	Marionette enabled
+1662363753589	Marionette	INFO	Listening on port 57674
+WebDriver BiDi listening on ws://localhost:57667
+Read port: 57674
+1662363754208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofile3CSqW8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57667/devtools/browser/2e3cfdd6-ddc2-4915-be58-e6040aa0d488
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662363872329	Marionette	INFO	Stopped listening on port 57674
+1662363903829	geckodriver	INFO	Listening on 127.0.0.1:57754
+1662363905857	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZYPqfr"
+1662363906443	Marionette	INFO	Marionette enabled
+1662363906452	Marionette	INFO	Listening on port 57762
+WebDriver BiDi listening on ws://localhost:57755
+Read port: 57762
+1662363906976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZYPqfr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57755/devtools/browser/752a77b0-7c2e-48a1-9d1d-5a7ee267cce0
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662364026981	Marionette	INFO	Stopped listening on port 57762
+!!! error running onStopped callback: TypeError: callback is not a function
+1662364230456	geckodriver	INFO	Listening on 127.0.0.1:57865
+1662364232510	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileNuMRG3"
+1662364233195	Marionette	INFO	Marionette enabled
+1662364233210	Marionette	INFO	Listening on port 57873
+WebDriver BiDi listening on ws://localhost:57866
+Read port: 57873
+1662364233811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileNuMRG3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57866/devtools/browser/01878a70-e305-4a32-abf2-f8539083c963
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662364290578	Marionette	INFO	Stopped listening on port 57873
+!!! error running onStopped callback: TypeError: callback is not a function
+1662365225939	geckodriver	INFO	Listening on 127.0.0.1:58115
+1662365227994	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileX36BKf"
+1662365228659	Marionette	INFO	Marionette enabled
+1662365228672	Marionette	INFO	Listening on port 58125
+WebDriver BiDi listening on ws://localhost:58116
+Read port: 58125
+1662365229298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileX36BKf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58116/devtools/browser/641544c9-36ff-421a-a70d-50a18aba6a74
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662365278088	Marionette	INFO	Stopped listening on port 58125
+1662365328735	geckodriver	INFO	Listening on 127.0.0.1:58177
+1662365330783	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTLOqCA"
+1662365331342	Marionette	INFO	Marionette enabled
+1662365331355	Marionette	INFO	Listening on port 58185
+WebDriver BiDi listening on ws://localhost:58178
+Read port: 58185
+1662365331918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileTLOqCA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58178/devtools/browser/78ef7153-7455-417a-8f2d-83beda1cb23f
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662365389268	Marionette	INFO	Stopped listening on port 58185
+!!! error running onStopped callback: TypeError: callback is not a function
+1662365477151	geckodriver	INFO	Listening on 127.0.0.1:58249
+1662365479176	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelTVyMj"
+1662365479756	Marionette	INFO	Marionette enabled
+1662365479771	Marionette	INFO	Listening on port 58258
+WebDriver BiDi listening on ws://localhost:58250
+Read port: 58258
+1662365480438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelTVyMj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58250/devtools/browser/a4f03a61-729b-4a80-a7e5-3a9a724f8140
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662365537664	Marionette	INFO	Stopped listening on port 58258
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+!!! error running onStopped callback: TypeError: callback is not a function
+1662366039445	geckodriver	INFO	Listening on 127.0.0.1:58417
+1662366041487	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileRIOb6C"
+1662366042139	Marionette	INFO	Marionette enabled
+1662366042150	Marionette	INFO	Listening on port 58425
+WebDriver BiDi listening on ws://localhost:58418
+Read port: 58425
+1662366042726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileRIOb6C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58418/devtools/browser/a23ff94a-2046-4486-9629-66aab2272c08
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662366096544	Marionette	INFO	Stopped listening on port 58425
+!!! error running onStopped callback: TypeError: callback is not a function
+1662366115716	geckodriver	INFO	Listening on 127.0.0.1:58464
+1662366117751	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZZDtdF"
+1662366118489	Marionette	INFO	Marionette enabled
+1662366118503	Marionette	INFO	Listening on port 58472
+Read port: 58472
+WebDriver BiDi listening on ws://localhost:58465
+1662366119325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileZZDtdF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58465/devtools/browser/ea99b090-416d-4eb3-b766-f36a59c1de64
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662366175660	Marionette	INFO	Stopped listening on port 58472
+1662366347692	geckodriver	INFO	Listening on 127.0.0.1:58554
+1662366349725	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilebd3jre"
+1662366350307	Marionette	INFO	Marionette enabled
+1662366350314	Marionette	INFO	Listening on port 58563
+WebDriver BiDi listening on ws://localhost:58555
+Read port: 58563
+1662366350880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilebd3jre\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58555/devtools/browser/f27885ed-969b-40bd-9784-586a6d53d8c0
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662366413567	Marionette	INFO	Stopped listening on port 58563
+!!! error running onStopped callback: TypeError: callback is not a function
+1662379763015	geckodriver	INFO	Listening on 127.0.0.1:59803
+1662379765033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileATjzO4"
+1662379766141	Marionette	INFO	Marionette enabled
+1662379766152	Marionette	INFO	Listening on port 59815
+WebDriver BiDi listening on ws://localhost:59804
+Read port: 59815
+1662379767088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileATjzO4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59804/devtools/browser/f349eef8-282a-41c9-81fd-66b71dee705d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662379833665	Marionette	INFO	Stopped listening on port 59815
+!!! error running onStopped callback: TypeError: callback is not a function
+1662379936160	geckodriver	INFO	Listening on 127.0.0.1:59888
+1662379938187	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofiler3hxUY"
+1662379938841	Marionette	INFO	Marionette enabled
+1662379938853	Marionette	INFO	Listening on port 59900
+WebDriver BiDi listening on ws://localhost:59889
+Read port: 59900
+1662379939472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofiler3hxUY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59889/devtools/browser/1ad1e223-59fb-473f-a4bb-9ff6e1c179dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662380024694	Marionette	INFO	Stopped listening on port 59900
+!!! error running onStopped callback: TypeError: callback is not a function
+1662380138490	geckodriver	INFO	Listening on 127.0.0.1:59977
+1662380140507	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilektuZMg"
+1662380141192	Marionette	INFO	Marionette enabled
+1662380141202	Marionette	INFO	Listening on port 59990
+WebDriver BiDi listening on ws://localhost:59978
+Read port: 59990
+1662380141808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilektuZMg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59978/devtools/browser/fa919147-3e38-4b8f-a6cf-351ad1f66faa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662380221956	Marionette	INFO	Stopped listening on port 59990
+!!! error running onStopped callback: TypeError: callback is not a function
+1662380522703	geckodriver	INFO	Listening on 127.0.0.1:60114
+1662380524709	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilecR1zId"
+1662380525461	Marionette	INFO	Marionette enabled
+1662380525472	Marionette	INFO	Listening on port 60125
+WebDriver BiDi listening on ws://localhost:60115
+Read port: 60125
+1662380526025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilecR1zId\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60115/devtools/browser/54c54a6d-380b-441c-b289-4ee5c3b90df7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662380620342	Marionette	INFO	Stopped listening on port 60125
+!!! error running onStopped callback: TypeError: callback is not a function
+1662380656222	geckodriver	INFO	Listening on 127.0.0.1:60187
+1662380658246	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaZ30sx"
+1662380658890	Marionette	INFO	Marionette enabled
+1662380658902	Marionette	INFO	Listening on port 60201
+WebDriver BiDi listening on ws://localhost:60188
+Read port: 60201
+1662380659515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileaZ30sx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60188/devtools/browser/2c6ba391-ae70-47f9-a076-b96b94506aa1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662380739782	Marionette	INFO	Stopped listening on port 60201
+!!! error running onStopped callback: TypeError: callback is not a function
+1662380878389	geckodriver	INFO	Listening on 127.0.0.1:60276
+1662380880399	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileKCsLDc"
+1662380881146	Marionette	INFO	Marionette enabled
+1662380881162	Marionette	INFO	Listening on port 60285
+WebDriver BiDi listening on ws://localhost:60277
+Read port: 60285
+1662380881805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileKCsLDc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60277/devtools/browser/035ca6dd-7bda-4176-873d-98e46f39316b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662380969726	Marionette	INFO	Stopped listening on port 60285
+1662382482218	geckodriver	INFO	Listening on 127.0.0.1:60644
+1662382484247	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilecHSXPQ"
+1662382484984	Marionette	INFO	Marionette enabled
+1662382484999	Marionette	INFO	Listening on port 60656
+WebDriver BiDi listening on ws://localhost:60645
+Read port: 60656
+1662382485678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilecHSXPQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60645/devtools/browser/a6305722-8bf4-45c8-bd7a-0f2b0ce65bb4
+1662382534035	Marionette	INFO	Stopped listening on port 60656
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 5352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662382534843	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1662382549185	geckodriver	INFO	Listening on 127.0.0.1:60690
+1662382551210	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileCGayn0"
+1662382552031	Marionette	INFO	Marionette enabled
+1662382552046	Marionette	INFO	Listening on port 60700
+WebDriver BiDi listening on ws://localhost:60691
+Read port: 60700
+1662382552779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileCGayn0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60691/devtools/browser/bea0b47b-c08f-4bd2-bc96-5b53bc2f2faa
+1662382589191	Marionette	INFO	Stopped listening on port 60700
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662382593184	geckodriver	INFO	Listening on 127.0.0.1:60711
+1662382595217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilehZp8oR"
+1662382595920	Marionette	INFO	Marionette enabled
+1662382595931	Marionette	INFO	Listening on port 60719
+WebDriver BiDi listening on ws://localhost:60712
+Read port: 60719
+1662382596695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilehZp8oR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60712/devtools/browser/d3bb7f1b-acad-4504-9714-dc2de511122d
+1662382601488	Marionette	INFO	Stopped listening on port 60719
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 182: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662382604936	geckodriver	INFO	Listening on 127.0.0.1:60723
+1662382607014	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileV6pPeW"
+1662382607690	Marionette	INFO	Marionette enabled
+1662382607707	Marionette	INFO	Listening on port 60731
+WebDriver BiDi listening on ws://localhost:60724
+Read port: 60731
+1662382608384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileV6pPeW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60724/devtools/browser/4ffdc376-93fa-42fd-9088-b514dfff5848
+1662382614065	Marionette	INFO	Stopped listening on port 60731
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 201: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662382636649	geckodriver	INFO	Listening on 127.0.0.1:60741
+1662382638669	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileQB4rsx"
+1662382639651	Marionette	INFO	Marionette enabled
+1662382639674	Marionette	INFO	Listening on port 60751
+WebDriver BiDi listening on ws://localhost:60742
+Read port: 60751
+1662382640453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileQB4rsx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60742/devtools/browser/75ed50da-fa4f-4596-af9d-bc82e4bda8f2
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1662382658029	Marionette	INFO	Stopped listening on port 60751
+1662382661459	geckodriver	INFO	Listening on 127.0.0.1:60758
+1662382663485	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileVLukhe"
+1662382664279	Marionette	INFO	Marionette enabled
+1662382664291	Marionette	INFO	Listening on port 60769
+WebDriver BiDi listening on ws://localhost:60759
+Read port: 60769
+1662382664944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileVLukhe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60759/devtools/browser/bc1ffaa9-7fa5-49d4-bc04-0f15680bd73a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1662382683374	Marionette	INFO	Stopped listening on port 60769
+!!! error running onStopped callback: TypeError: callback is not a function
+1662383074086	geckodriver	INFO	Listening on 127.0.0.1:60837
+1662383076088	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelvGfoh"
+1662383076707	Marionette	INFO	Marionette enabled
+1662383076719	Marionette	INFO	Listening on port 60845
+WebDriver BiDi listening on ws://localhost:60838
+Read port: 60845
+1662383077336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilelvGfoh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60838/devtools/browser/3e45e365-be26-41c3-be08-54e41925e5cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662383133214	Marionette	INFO	Stopped listening on port 60845
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1662383135157	geckodriver	INFO	Listening on 127.0.0.1:60893
+1662383137156	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilezR8hpp"
+1662383137826	Marionette	INFO	Marionette enabled
+1662383137843	Marionette	INFO	Listening on port 60901
+WebDriver BiDi listening on ws://localhost:60894
+Read port: 60901
+1662383138510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilezR8hpp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60894/devtools/browser/7ba4c957-22e9-4cf1-a597-b4e3ebb61fae
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662383264824	Marionette	INFO	Stopped listening on port 60901
+!!! error running onStopped callback: TypeError: callback is not a function
+1662386095148	geckodriver	INFO	Listening on 127.0.0.1:61640
+1662386097169	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilexF0dCX"
+1662386097854	Marionette	INFO	Marionette enabled
+1662386097864	Marionette	INFO	Listening on port 61650
+WebDriver BiDi listening on ws://localhost:61641
+Read port: 61650
+1662386098510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilexF0dCX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61641/devtools/browser/d852a76d-0a64-4cef-b4c8-40689e4ab331
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662386168440	Marionette	INFO	Stopped listening on port 61650
+!!! error running onStopped callback: TypeError: callback is not a function
+1662386229507	geckodriver	INFO	Listening on 127.0.0.1:61707
+1662386231510	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileLyX0tM"
+1662386232304	Marionette	INFO	Marionette enabled
+1662386232329	Marionette	INFO	Listening on port 61719
+WebDriver BiDi listening on ws://localhost:61708
+Read port: 61719
+1662386232926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileLyX0tM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61708/devtools/browser/89c92152-7e99-4da6-80e5-80ab9b683d85
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662386302188	Marionette	INFO	Stopped listening on port 61719
+!!! error running onStopped callback: TypeError: callback is not a function
+1662386439673	geckodriver	INFO	Listening on 127.0.0.1:61800
+1662386441689	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilePfO4xu"
+1662386442360	Marionette	INFO	Marionette enabled
+1662386442370	Marionette	INFO	Listening on port 61808
+WebDriver BiDi listening on ws://localhost:61801
+Read port: 61808
+1662386442854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilePfO4xu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61801/devtools/browser/01bbb10c-4bcb-4dba-a078-d8a34c945e42
+1662386483652	Marionette	INFO	Stopped listening on port 61808
+!!! error running onStopped callback: TypeError: callback is not a function
+1662386519544	geckodriver	INFO	Listening on 127.0.0.1:61850
+1662386521557	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileb70t5W"
+1662386522393	Marionette	INFO	Marionette enabled
+1662386522412	Marionette	INFO	Listening on port 61858
+WebDriver BiDi listening on ws://localhost:61851
+Read port: 61858
+1662386523042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofileb70t5W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61851/devtools/browser/743764d5-9178-421f-8d7e-684dd1cecb7b
+1662386529219	Marionette	INFO	Stopped listening on port 61858
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 201: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 134: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1662386605370	geckodriver	INFO	Listening on 127.0.0.1:61913
+1662386607402	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilel4WYCX"
+1662386608079	Marionette	INFO	Marionette enabled
+1662386608099	Marionette	INFO	Listening on port 61923
+WebDriver BiDi listening on ws://localhost:61914
+Read port: 61923
+1662386608687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HPSIM~1\\AppData\\Local\\Temp\\rust_mozprofilel4WYCX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61914/devtools/browser/cff75749-6c68-4b2f-a00b-728fb77ed325
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662386679488	Marionette	INFO	Stopped listening on port 61923
+!!! error running onStopped callback: TypeError: callback is not a function
